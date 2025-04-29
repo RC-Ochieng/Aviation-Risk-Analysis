@@ -52,3 +52,10 @@ The dataset used in this project is `AviationData.csv`, which contains historica
 ## Results
 The notebook outputs a ranked list of aircraft models by their `Risk_Score`, from safest to least safe. This list serves as a practical guide for selecting low-risk aircraft for the company's aviation operations.
 
+## Tableau Dashboard
+Here i have shared two links of my analysis using tableau. The first one is between sum of all injuries to model of aircrafts and the second is between sum of injuries to make.
+- link 1
+  https://public.tableau.com/views/AviationRiskAnalysisDashboard1/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- link 2
+  https://public.tableau.com/views/AviationRiskAnalysisDashboard_17459559553300/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
+
